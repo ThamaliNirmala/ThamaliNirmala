@@ -7,9 +7,9 @@
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me tnirmalaadasooriya@gmail.com
 - Thaulla Bojun - https://thaulla-bojun.herokuapp.com/
-- linkedin.com/in/thamali-nirmala-a4ba86220
 - 0770113437
 - https://www.facebook.com/thamalinirmala.nirmala.3
+- linkedin.com/in/thamali-nirmala-a4ba86220
 
 <!--
 **ThamaliNirmala/ThamaliNirmala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
