@@ -1,5 +1,4 @@
-
-- ![27460021_880593905435912_6687497542494330139_n](https://user-images.githubusercontent.com/86107352/135994313-24cb231c-6bd3-47d9-a0c9-75782d53063a.jpg)
+- ![130056846-690d633c-0a3f-4c43-b5d0-12f67080ec90](https://user-images.githubusercontent.com/86107352/136001946-89a1ec43-a133-4a7b-936e-a5b70df571b4.jpg)
 
 - 👋 Hi, I’m @ThamaliNirmala
 - 👀 I’m interested in Software Engineering
@@ -7,9 +6,11 @@
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me tnirmalaadasooriya@gmail.com
 - Thaulla Bojun - https://thaulla-bojun.herokuapp.com/
+- linkedin.com/in/thamali-nirmala-a4ba86220
 - 0770113437
 - https://www.facebook.com/thamalinirmala.nirmala.3
-- linkedin.com/in/thamali-nirmala-a4ba86220
+
+
 
 <!--
 **ThamaliNirmala/ThamaliNirmala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
