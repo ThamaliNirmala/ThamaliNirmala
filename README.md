@@ -5,12 +5,14 @@
 - 🌱 I’m currently learning at Sri Lanka Institute of Information Technology
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me tnirmalaadasooriya@gmail.com
+- My Portfolio site - https://thamali-portfolio.herokuapp.com/
 - Thaulla Bojun - https://thaulla-bojun.herokuapp.com/
 - https://www.linkedin.com/in/thamali-nirmala
 - 0770113437
 - https://www.facebook.com/thamalinirmala.nirmala.3
 - https://gitlab.com/tnirmalaadasooriya
 - https://medium.com/@ThamaliNirmala
+
 
 
 
