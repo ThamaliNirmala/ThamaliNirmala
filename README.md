@@ -12,6 +12,7 @@
 - https://www.facebook.com/thamalinirmala.nirmala.3
 - https://gitlab.com/tnirmalaadasooriya
 - https://medium.com/@ThamaliNirmala
+- Resume - https://drive.google.com/file/d/1F_dXtNfMQV9PDdMWLSExp1B48W5pkzMO/view?usp=sharing
 
 
 
