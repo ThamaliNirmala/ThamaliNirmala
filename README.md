@@ -7,6 +7,7 @@
 - 📫 How to reach me tnirmalaadasooriya@gmail.com
 - My Portfolio site - https://thamali-portfolio.herokuapp.com/
 - Thaulla Bojun - https://thaulla-bojun.herokuapp.com/
+- Studio-600D - https://studio-600d.herokuapp.com/
 - https://www.linkedin.com/in/thamali-nirmala
 - 0770113437
 - https://www.facebook.com/thamalinirmala.nirmala.3
