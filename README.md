@@ -13,10 +13,7 @@
 - https://www.facebook.com/thamalinirmala.nirmala.3
 - https://gitlab.com/tnirmalaadasooriya
 - https://medium.com/@ThamaliNirmala
-- Resume - https://drive.google.com/file/d/1kUWWiPnG-OksDUN8sx9nvfq4rfvtku67/view?usp=sharing
-
-
-
+- Resume - https://drive.google.com/file/d/1vtg8E7MOLP3thKxwFrtX_fccYGes6-JN/view?usp=sharing
 
 <!--
 **ThamaliNirmala/ThamaliNirmala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
