@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning at Sri Lanka Institute of Information Technology
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me tnirmalaadasooriya@gmail.com
-- My Portfolio site - https://thamali-portfolio.herokuapp.com/
+- My Portfolio site - https://thamalinirmala.netlify.app/
 - Thaulla Bojun - https://thaulla-bojun.herokuapp.com/
 - Studio-600D - https://studio-600d.herokuapp.com/
 - Dev Ops - https://dev.to/thamalinirmala
