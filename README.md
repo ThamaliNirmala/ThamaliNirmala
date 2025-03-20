@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning at Sri Lanka Institute of Information Technology
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me tnirmalaadasooriya@gmail.com
-- https://thamaliherath.online/
+- https://thamalinirmala.netlify.app/
 - https://dev.to/thamalinirmala
 - https://www.linkedin.com/in/thamali-nirmala-herath/
 - 0770113437
