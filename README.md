@@ -7,7 +7,7 @@
 - 📫 How to reach me tnirmalaadasooriya@gmail.com
 - https://thamaliherath.online/
 - https://dev.to/thamalinirmala
-- https://www.linkedin.com/in/thamali-nirmala
+- https://www.linkedin.com/in/thamali-nirmala-herath/
 - 0770113437
 - https://www.facebook.com/thamalinirmala.nirmala.3
 - https://gitlab.com/tnirmalaadasooriya
