@@ -1,102 +1,52 @@
-# 👋 Hi, I'm Thamali Herath
+# Hi there, I'm Thamali Herath 👋
 
-### 🧪 Quality Assurance Engineer | Software Engineering Graduate
-
-I’m a **detail-oriented Quality Assurance Engineer** with hands-on experience in **manual and automated testing** for web and enterprise applications. I’m passionate about improving software quality, identifying defects early, and collaborating with Agile teams to deliver reliable products.
-
----
-
-## 👩‍💻 About Me
-
-- 🔍 Experience in **Functional, Regression, Integration, UI & API Testing**
-- 🧪 Hands-on with **Selenium WebDriver, Postman, JUnit**
-- 🐞 Strong in **test case design & defect lifecycle management**
-- ⚙️ Familiar with **Agile / Scrum** methodologies
-- 💻 Technical background in **Java, JavaScript & Full-Stack Development**
+### Quality Assurance Engineer | Software Engineering Enthusiast
+[cite_start]I am a detail-oriented **Quality Assurance Engineer** based in Sri Lanka[cite: 1, 2, 3]. [cite_start]I specialize in manual and automated testing across web and enterprise applications, with a strong focus on enhancing software quality and testing efficiency[cite: 9, 11].
 
 ---
 
-## 🛠️ Skills & Tools
+### 🚀 Professional Experience
+**Xenosys Software Solutions** | *Associate Software Quality Engineer* | (12/2025 – Present) [cite_start][cite: 20, 21, 35]
+* [cite_start]Manage defect lifecycles using **Jira**, collaborating with developers to validate fixes[cite: 27].
+* [cite_start]Align QA activities with development goals through Agile/Scrum ceremonies[cite: 28].
 
-### 🔹 Testing & QA
-- Functional Testing  
-- Regression Testing  
-- Integration Testing  
-- UI & Usability Testing  
-- API Testing  
-- Test Case Design & Execution  
-- Bug Reporting  
-- SDLC / STLC  
+**Xenosys Software Solutions** | *Intern Quality Assurance Engineer* | (05/2025 – 11/2025) [cite_start][cite: 31, 36]
+* [cite_start]Performed functional, regression, usability, API, and cross-browser testing for web and ERP systems[cite: 32].
+* [cite_start]Designed and executed structured test cycles and comprehensive test cases[cite: 33].
 
-### 🔹 Tools & Technologies
-- **Testing Tools:** Selenium WebDriver, Postman, JUnit  
-- **Version Control:** GitHub, GitLab, Sourcetree, Azure DevOps  
-- **Project Management:** Jira, Asana  
-- **Databases:** MySQL, MongoDB, Firebase  
-- **Frameworks:** React, Angular, Node.js, Express  
-- **Languages:** JavaScript, TypeScript, Java, .NET, HTML, CSS  
-- **Other:** Docker, GCP, WordPress, Agile/Scrum  
+**Treinetic (Pvt) Ltd** | [cite_start]*Intern Full Stack Software Engineer* [cite: 39, 40]
+* [cite_start]Developed application features using **AngularJS** and **Spring Boot**[cite: 41].
+* [cite_start]Built and integrated RESTful APIs and participated in code reviews[cite: 41, 42].
 
 ---
 
-## 💼 Experience
-
-### **Xenosys Software Solutions** – Colombo, Sri Lanka  
-**Associate Software Quality Engineer** *(Dec 2025 – Present)*  
-- Logged, tracked, and verified defects using **Jira**  
-- Collaborated with developers to reproduce issues and validate fixes  
-- Participated in sprint planning, daily stand-ups, and retrospectives  
-- Improved QA processes through continuous feedback  
-
-**Intern Quality Assurance Engineer** *(May 2025 – Nov 2025)*  
-- Performed functional, regression, usability, API, and cross-browser testing  
-- Designed and executed structured test cases  
-- Verified bug fixes in Agile sprint cycles  
+### 🛠️ Technical Skills
+* [cite_start]**Testing & QA:** Functional, Regression, Integration, UI, API (Postman), and Usability Testing[cite: 14, 15].
+* [cite_start]**Automation Tools:** Selenium WebDriver, JUnit[cite: 15].
+* [cite_start]**Languages:** Java, JavaScript, TypeScript, .NET, Python, HTML/CSS[cite: 24, 61].
+* [cite_start]**Frameworks:** React, Node.js, Express, Angular, Spring Boot[cite: 22, 23, 41].
+* [cite_start]**Tools & DevOps:** GitHub, Azure DevOps, AWS, Docker, Jenkins[cite: 16, 26].
+* [cite_start]**Databases:** MongoDB, MySQL, Firebase[cite: 18].
 
 ---
 
-### **Treinetic (Pvt) Ltd** – Colombo, Sri Lanka  
-**Intern Full Stack Software Engineer** *(Mar 2022 – Mar 2023)*  
-- Developed features using **AngularJS & Spring Boot**  
-- Built and integrated RESTful APIs  
-- Participated in debugging, testing, and code reviews  
+### 📊 Featured Projects & Research
+* [cite_start]**ArchiveHub:** A web-based dashboard using NLP and ML to maintain and rate researcher profiles (Final Year Research)[cite: 60, 63].
+* [cite_start]**CRM & POS Systems:** Verified complex workflows, real-time inventory sync, and lead management[cite: 48, 56].
+* [cite_start]**E-commerce & Car Rental:** Analyzed UI flows, payment behaviors, and booking logic across multiple devices[cite: 52, 54].
 
 ---
 
-## 📂 Projects
-
-- **CRM System** – Tested lead management and workflow actions  
-- **Assets Module** – Validated asset lifecycle and status transitions  
-- **E-commerce Web App** – Checked UI flow, checkout, and payments  
-- **Car Rental System** – Verified booking and availability logic  
-- **POS System** – Validated transactions and inventory sync  
-- **HR Management System** – Tested payroll, attendance, and access control  
+### 🎓 Education
+* **BSc (Hons) in IT - Software Engineering** | [cite_start]SLIIT (2020 - 2024) [cite: 44]
 
 ---
 
-## 🎓 Education
-
-🎓 **BSc (Hons) in IT – Software Engineering**  
-Sri Lanka Institute of Information Technology (SLIIT)
-
-🏫 **GCE Advanced Level**  
-Isipathana Central College, Bamunakotuwa
+### 📫 Connect with Me
+* [cite_start]**Portfolio:** [thamaliherath.space](https://thamaliherath.space) [cite: 6]
+* [cite_start]**LinkedIn:** [linkedin.com/in/thamali-nirmala-herath](https://linkedin.com/in/thamali-nirmala-herath) [cite: 6]
+* [cite_start]**Articles:** [medium.com/@ThamaliNirmala](https://medium.com/@ThamaliNirmala) [cite: 7]
+* [cite_start]**Email:** tnirmalaadasooriya@gmail.com [cite: 5]
 
 ---
-
-## 📚 Research & Publication
-
-**ARCHIVEHUB: Web-based Dashboard to Maintain and Rate Researchers’ Profiles**  
-- NLP & ML-based researcher profiling system  
-- Tech: JavaScript, Python, React, Node.js, AWS, Flask, Selenium  
-
-🔗 https://irjiet.com/Volume-7/Issue-10-October-2023/ARCHIVEHUB-Web-based-Dashboard-to-Maintain-and-Rate-Researchers-Profiles/1873
-
----
-
-## 🌐 Connect with Me
-
-- 🌍 Portfolio: https://thamaliherath.space  
-- 💼 LinkedIn: https://www.linkedin.com/in/thamali-nirmala-herath  
-- ✍️ Medium: https://medium.com/@ThamaliNirmala  
-- 📧 Email: tnirmalaadasooriya@gmail.com
+*“Detail-oriented, quality-driven, and always learning.”*
