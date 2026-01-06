@@ -1,52 +1,50 @@
-# Hi there, I'm Thamali Herath 👋
+# 👋 Hi, I'm Thamali Herath  
+### Quality Assurance Engineer | Full Stack Background
 
-### Quality Assurance Engineer | Software Engineering Enthusiast
-[cite_start]I am a detail-oriented **Quality Assurance Engineer** based in Sri Lanka[cite: 1, 2, 3]. [cite_start]I specialize in manual and automated testing across web and enterprise applications, with a strong focus on enhancing software quality and testing efficiency[cite: 9, 11].
-
----
-
-### 🚀 Professional Experience
-**Xenosys Software Solutions** | *Associate Software Quality Engineer* | (12/2025 – Present) [cite_start][cite: 20, 21, 35]
-* [cite_start]Manage defect lifecycles using **Jira**, collaborating with developers to validate fixes[cite: 27].
-* [cite_start]Align QA activities with development goals through Agile/Scrum ceremonies[cite: 28].
-
-**Xenosys Software Solutions** | *Intern Quality Assurance Engineer* | (05/2025 – 11/2025) [cite_start][cite: 31, 36]
-* [cite_start]Performed functional, regression, usability, API, and cross-browser testing for web and ERP systems[cite: 32].
-* [cite_start]Designed and executed structured test cycles and comprehensive test cases[cite: 33].
-
-**Treinetic (Pvt) Ltd** | [cite_start]*Intern Full Stack Software Engineer* [cite: 39, 40]
-* [cite_start]Developed application features using **AngularJS** and **Spring Boot**[cite: 41].
-* [cite_start]Built and integrated RESTful APIs and participated in code reviews[cite: 41, 42].
+[cite_start]I am a detail-oriented **Quality Assurance Engineer** based in Kurunegala, Sri Lanka[cite: 1, 2, 3]. [cite_start]I specialize in manual and automated testing for web and enterprise applications[cite: 9]. [cite_start]With a background in Full Stack development, I bridge the gap between building software and ensuring it meets the highest standards of quality[cite: 12, 40].
 
 ---
 
-### 🛠️ Technical Skills
-* [cite_start]**Testing & QA:** Functional, Regression, Integration, UI, API (Postman), and Usability Testing[cite: 14, 15].
-* [cite_start]**Automation Tools:** Selenium WebDriver, JUnit[cite: 15].
-* [cite_start]**Languages:** Java, JavaScript, TypeScript, .NET, Python, HTML/CSS[cite: 24, 61].
-* [cite_start]**Frameworks:** React, Node.js, Express, Angular, Spring Boot[cite: 22, 23, 41].
-* [cite_start]**Tools & DevOps:** GitHub, Azure DevOps, AWS, Docker, Jenkins[cite: 16, 26].
-* [cite_start]**Databases:** MongoDB, MySQL, Firebase[cite: 18].
+### 🚀 Professional Snapshot
+* [cite_start]**Current Role**: Associate Software Quality Engineer at Xenosys Software Solutions[cite: 20, 21].
+* [cite_start]**Core Focus**: Test Case Design, API Testing, and Defect Lifecycle Management[cite: 10].
+* [cite_start]**Tech Interests**: Test Automation (Selenium), DevOps, and CI/CD workflows[cite: 11, 16].
+* [cite_start]**Education**: BSc (Hons) in IT specializing in Software Engineering from SLIIT[cite: 44].
 
 ---
 
-### 📊 Featured Projects & Research
-* [cite_start]**ArchiveHub:** A web-based dashboard using NLP and ML to maintain and rate researcher profiles (Final Year Research)[cite: 60, 63].
-* [cite_start]**CRM & POS Systems:** Verified complex workflows, real-time inventory sync, and lead management[cite: 48, 56].
-* [cite_start]**E-commerce & Car Rental:** Analyzed UI flows, payment behaviors, and booking logic across multiple devices[cite: 52, 54].
+### 🛠 Tech Stack & Skills
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Testing & QA** | [cite_start]Selenium WebDriver [cite: 15][cite_start], Postman [cite: 15][cite_start], JUnit [cite: 15][cite_start], Functional & Regression Testing [cite: 14] |
+| **Languages** | [cite_start]Java [cite: 24][cite_start], JavaScript [cite: 24][cite_start], TypeScript [cite: 24][cite_start], Python [cite: 61][cite_start], .NET [cite: 24] |
+| **Frameworks** | [cite_start]React [cite: 22][cite_start], Node.js [cite: 22][cite_start], Express [cite: 22][cite_start], Angular [cite: 23][cite_start], Spring Boot [cite: 41] |
+| **Management** | [cite_start]Jira [cite: 17][cite_start], Asana [cite: 17][cite_start], Agile/Scrum [cite: 26][cite_start], Azure DevOps [cite: 16] |
+| **Databases** | [cite_start]MongoDB [cite: 18][cite_start], MySQL [cite: 18][cite_start], Firebase [cite: 18] |
 
 ---
 
-### 🎓 Education
-* **BSc (Hons) in IT - Software Engineering** | [cite_start]SLIIT (2020 - 2024) [cite: 44]
+### 📂 Key Projects
+
+* [cite_start]**ArchiveHub (Research)**: Developed a web-based dashboard to rate researcher profiles using NLP and ML techniques[cite: 60, 63].
+* [cite_start]**CRM & POS Systems**: Validated lead management workflows, real-time inventory sync, and transaction accuracy[cite: 48, 56].
+* [cite_start]**E-commerce & Car Rental**: Analyzed UI flows, payment behaviors, and booking logic across multiple devices[cite: 52, 54].
+* [cite_start]**HR Management**: Evaluated payroll, attendance, and access control functions[cite: 58].
+
+---
+
+### ✍️ Publications & Content
+* [cite_start]**Publication**: *ARCHIVEHUB: Web-based Dashboard to Maintain and Rate Researchers' Profiles*[cite: 63].
+* [cite_start]**Blog**: I share insights on software testing and development on [Medium](https://medium.com/@ThamaliNirmala)[cite: 7].
 
 ---
 
 ### 📫 Connect with Me
-* [cite_start]**Portfolio:** [thamaliherath.space](https://thamaliherath.space) [cite: 6]
-* [cite_start]**LinkedIn:** [linkedin.com/in/thamali-nirmala-herath](https://linkedin.com/in/thamali-nirmala-herath) [cite: 6]
-* [cite_start]**Articles:** [medium.com/@ThamaliNirmala](https://medium.com/@ThamaliNirmala) [cite: 7]
-* [cite_start]**Email:** tnirmalaadasooriya@gmail.com [cite: 5]
+* [cite_start]**LinkedIn**: [linkedin.com/in/thamali-nirmala-herath](https://linkedin.com/in/thamali-nirmala-herath) [cite: 6]
+* [cite_start]**Portfolio**: [thamaliherath.space](http://thamaliherath.space) [cite: 6]
+* [cite_start]**Email**: [tnirmalaadasooriya@gmail.com](mailto:tnirmalaadasooriya@gmail.com) [cite: 5]
+* [cite_start]**Phone**: +94 770 113 437 [cite: 4]
 
 ---
-*“Detail-oriented, quality-driven, and always learning.”*
+*“Quality is not an act, it is a habit.”*
