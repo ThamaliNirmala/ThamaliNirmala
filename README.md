@@ -1,50 +1,135 @@
-# 👋 Hi, I'm Thamali Herath  
-### Quality Assurance Engineer | Full Stack Background
+# 👋 Hi, I'm Thamali Nirmala Herath  
 
-[cite_start]I am a detail-oriented **Quality Assurance Engineer** based in Kurunegala, Sri Lanka[cite: 1, 2, 3]. [cite_start]I specialize in manual and automated testing for web and enterprise applications[cite: 9]. [cite_start]With a background in Full Stack development, I bridge the gap between building software and ensuring it meets the highest standards of quality[cite: 12, 40].
+### 🧪 Quality Assurance Engineer | 💻 Software Engineer | 🚀 Tech Enthusiast  
 
----
-
-### 🚀 Professional Snapshot
-* [cite_start]**Current Role**: Associate Software Quality Engineer at Xenosys Software Solutions[cite: 20, 21].
-* [cite_start]**Core Focus**: Test Case Design, API Testing, and Defect Lifecycle Management[cite: 10].
-* [cite_start]**Tech Interests**: Test Automation (Selenium), DevOps, and CI/CD workflows[cite: 11, 16].
-* [cite_start]**Education**: BSc (Hons) in IT specializing in Software Engineering from SLIIT[cite: 44].
+📍 Kurunegala, Sri Lanka  
+📧 [tnirmalaadasooriya@gmail.com](mailto:tnirmalaadasooriya@gmail.com)  
+🌐 [thamaliherath.space](https://thamaliherath.space)  
+💼 [LinkedIn](https://www.linkedin.com/in/thamali-nirmala-herath/)  
+✍️ [Medium](https://medium.com/@ThamaliNirmala)
 
 ---
 
-### 🛠 Tech Stack & Skills
+## 👩‍💻 About Me  
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Testing & QA** | [cite_start]Selenium WebDriver [cite: 15][cite_start], Postman [cite: 15][cite_start], JUnit [cite: 15][cite_start], Functional & Regression Testing [cite: 14] |
-| **Languages** | [cite_start]Java [cite: 24][cite_start], JavaScript [cite: 24][cite_start], TypeScript [cite: 24][cite_start], Python [cite: 61][cite_start], .NET [cite: 24] |
-| **Frameworks** | [cite_start]React [cite: 22][cite_start], Node.js [cite: 22][cite_start], Express [cite: 22][cite_start], Angular [cite: 23][cite_start], Spring Boot [cite: 41] |
-| **Management** | [cite_start]Jira [cite: 17][cite_start], Asana [cite: 17][cite_start], Agile/Scrum [cite: 26][cite_start], Azure DevOps [cite: 16] |
-| **Databases** | [cite_start]MongoDB [cite: 18][cite_start], MySQL [cite: 18][cite_start], Firebase [cite: 18] |
+I am a **detail-oriented Quality Assurance Engineer** with hands-on experience in **manual and automated testing** for web, ERP, and enterprise applications. I have a strong understanding of the **software development and testing life cycles (SDLC/STLC)** and enjoy working closely with cross-functional teams to deliver high-quality, reliable software.
+
+I am skilled in **functional, regression, UI, and API testing**, with experience using tools such as **Selenium WebDriver, Postman, and JUnit**. With a solid foundation in **Java, JavaScript, and modern development frameworks**, I bridge the gap between development and quality assurance to improve testing efficiency and product quality.
 
 ---
 
-### 📂 Key Projects
+## 🛠️ Technical Skills  
 
-* [cite_start]**ArchiveHub (Research)**: Developed a web-based dashboard to rate researcher profiles using NLP and ML techniques[cite: 60, 63].
-* [cite_start]**CRM & POS Systems**: Validated lead management workflows, real-time inventory sync, and transaction accuracy[cite: 48, 56].
-* [cite_start]**E-commerce & Car Rental**: Analyzed UI flows, payment behaviors, and booking logic across multiple devices[cite: 52, 54].
-* [cite_start]**HR Management**: Evaluated payroll, attendance, and access control functions[cite: 58].
+### 🔍 Testing & Quality Assurance  
+- Functional Testing  
+- Regression Testing  
+- Integration Testing  
+- UI & Usability Testing  
+- API Testing  
+- Test Case Design & Execution  
+- Bug Reporting & Defect Lifecycle Management  
+- SDLC / STLC  
+
+### 🧰 Tools & Technologies  
+- **Testing Tools:** Selenium WebDriver, Postman, JUnit  
+- **Version Control:** GitHub, GitLab, Sourcetree, Azure DevOps  
+- **Project Management:** Jira, Asana  
+- **Databases:** MySQL, MongoDB, Firebase  
+- **CI/CD & Cloud:** Docker, AWS, Google Cloud Platform  
+
+### 🧩 Frameworks & Libraries  
+- React, Angular  
+- Node.js, Express  
+- Bootstrap, Tailwind CSS, Material UI, Ant Design  
+
+### 💻 Programming Languages  
+- JavaScript, TypeScript  
+- Java, .NET  
+- HTML, CSS  
+
+### ⚙️ Developer Tools  
+- Visual Studio Code, Visual Studio  
+- IntelliJ IDEA, Eclipse  
+- Android Studio  
 
 ---
 
-### ✍️ Publications & Content
-* [cite_start]**Publication**: *ARCHIVEHUB: Web-based Dashboard to Maintain and Rate Researchers' Profiles*[cite: 63].
-* [cite_start]**Blog**: I share insights on software testing and development on [Medium](https://medium.com/@ThamaliNirmala)[cite: 7].
+## 💼 Professional Experience  
+
+### **Xenosys Software Solutions**  
+**Associate Software Quality Engineer**  
+📅 *Dec 2025 – Present* | 📍 Colombo, Sri Lanka  
+
+- Logged, tracked, and verified software defects using **Jira**
+- Collaborated with developers to reproduce issues and validate fixes  
+- Participated in **Agile ceremonies** including sprint planning, stand-ups, and retrospectives  
+- Contributed to improving QA processes and testing efficiency  
+
+**Intern Quality Assurance Engineer**  
+📅 *May 2025 – Nov 2025*  
+
+- Performed functional, regression, usability, API, and cross-browser testing  
+- Designed and executed comprehensive test cases  
+- Validated fixes and ensured quality across web and ERP systems  
 
 ---
 
-### 📫 Connect with Me
-* [cite_start]**LinkedIn**: [linkedin.com/in/thamali-nirmala-herath](https://linkedin.com/in/thamali-nirmala-herath) [cite: 6]
-* [cite_start]**Portfolio**: [thamaliherath.space](http://thamaliherath.space) [cite: 6]
-* [cite_start]**Email**: [tnirmalaadasooriya@gmail.com](mailto:tnirmalaadasooriya@gmail.com) [cite: 5]
-* [cite_start]**Phone**: +94 770 113 437 [cite: 4]
+### **Treinetic (Pvt) Ltd**  
+**Intern Full Stack Software Engineer**  
+📅 *Mar 2022 – Mar 2023* | 📍 Colombo, Sri Lanka  
+
+- Developed application features using **AngularJS and Spring Boot**  
+- Built and integrated RESTful APIs  
+- Participated in debugging, testing, and code reviews  
+- Worked within Agile teams to deliver sprint goals  
 
 ---
-*“Quality is not an act, it is a habit.”*
+
+## 📂 Projects  
+
+- **CRM System**  
+  *Reviewed lead management workflows and communication features.*
+
+- **Assets Management Module**  
+  *Validated asset lifecycle transitions and status updates.*
+
+- **E-commerce Web Application**  
+  *Tested UI flow, checkout process, and payment behavior across devices.*
+
+- **Car Rental System**  
+  *Verified booking workflows, availability logic, and notifications.*
+
+- **Point of Sale (POS) System**  
+  *Validated transactions and real-time inventory synchronization.*
+
+- **HR Management System**  
+  *Tested onboarding, payroll, attendance, and access control features.*
+
+---
+
+## 🎓 Education  
+
+**BSc (Hons) in Information Technology – Software Engineering**  
+Sri Lanka Institute of Information Technology (SLIIT)  
+📅 *2020 – 2024*
+
+**GCE Advanced Level**  
+Isipathana Central College, Bamunakotuwa  
+
+---
+
+## 📘 Research & Publications  
+
+**ARCHIVEHUB: Web-based Dashboard to Maintain and Rate Researchers’ Profiles**  
+- Built researcher profiles using **NLP and Machine Learning**  
+- Technologies: JavaScript, Python, React, Node.js, AWS, Flask, Selenium  
+🔗 [Read Publication](https://irjiet.com/Volume-7/Issue-10-October-2023/ARCHIVEHUB-Web-based-Dashboard-to-Maintain-and-Rate-Researchers-Profiles/1873)
+
+---
+
+## 🤝 Let’s Connect  
+
+I’m always interested in collaborating on **QA, automation, and software engineering projects**.  
+Feel free to reach out if you’d like to connect, collaborate, or discuss technology!
+
+⭐ *If you like my work, consider giving my repositories a star!*  
