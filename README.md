@@ -1,135 +1,105 @@
-# 👋 Hi, I'm Thamali Nirmala Herath  
+![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-### 🧪 Quality Assurance Engineer | 💻 Software Engineer | 🚀 Tech Enthusiast  
+<h1 align="center">Hey 👩‍💻, I'm Thamali Nirmala Herath</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thamali-Herath&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-📍 Kurunegala, Sri Lanka  
-📧 [tnirmalaadasooriya@gmail.com](mailto:tnirmalaadasooriya@gmail.com)  
-🌐 [thamaliherath.space](https://thamaliherath.space)  
-💼 [LinkedIn](https://www.linkedin.com/in/thamali-nirmala-herath/)  
-✍️ [Medium](https://medium.com/@ThamaliNirmala)
+<p align="center">
+  <a href="https://github.com/Thamali-Herath">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Quality%20Assurance%20Engineer;Software%20Engineer;Manual%20%26%20Automation%20Tester;Tech%20Enthusiast&font=Pacifico&center=true&width=450&height=45&color=58a6ff&vCenter=true&size=26">
+  </a>
+</p>
 
----
+<p align="center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="80px">
+  </picture>
+</p>
 
-## 👩‍💻 About Me  
+<br>
 
-I am a **detail-oriented Quality Assurance Engineer** with hands-on experience in **manual and automated testing** for web, ERP, and enterprise applications. I have a strong understanding of the **software development and testing life cycles (SDLC/STLC)** and enjoy working closely with cross-functional teams to deliver high-quality, reliable software.
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
-I am skilled in **functional, regression, UI, and API testing**, with experience using tools such as **Selenium WebDriver, Postman, and JUnit**. With a solid foundation in **Java, JavaScript, and modern development frameworks**, I bridge the gap between development and quality assurance to improve testing efficiency and product quality.
+- 🎓 BSc (Hons) in IT – **Software Engineering (SLIIT)**
+- 🧪 **Associate Software Quality Engineer**
+- 🌱 Currently improving **Automation Testing & QA Processes**
+- 💬 Ask me about **Software Testing, Selenium, Postman, Agile**
+- 📫 Reach me at **tnirmalaadasooriya@gmail.com**
+- 🔭 Working on **Web & Enterprise Application Testing**
 
----
+</td>
+<td width="50%" align="center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+  </picture>
+</td>
+</tr>
+</table>
 
-## 🛠️ Technical Skills  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🔍 Testing & Quality Assurance  
-- Functional Testing  
-- Regression Testing  
-- Integration Testing  
-- UI & Usability Testing  
-- API Testing  
-- Test Case Design & Execution  
-- Bug Reporting & Defect Lifecycle Management  
-- SDLC / STLC  
+<img align="right" height="120px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-### 🧰 Tools & Technologies  
-- **Testing Tools:** Selenium WebDriver, Postman, JUnit  
-- **Version Control:** GitHub, GitLab, Sourcetree, Azure DevOps  
-- **Project Management:** Jira, Asana  
-- **Databases:** MySQL, MongoDB, Firebase  
-- **CI/CD & Cloud:** Docker, AWS, Google Cloud Platform  
+<h3 align="left">Connect with me:</h3>
 
-### 🧩 Frameworks & Libraries  
-- React, Angular  
-- Node.js, Express  
-- Bootstrap, Tailwind CSS, Material UI, Ant Design  
+<p align="left">
+<a href="https://www.linkedin.com/in/thamali-nirmala-herath/" target="_blank">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" height="40" width="40"/>
+</a>
+<a href="https://medium.com/@ThamaliNirmala" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" height="40" width="40"/>
+</a>
+<a href="mailto:tnirmalaadasooriya@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40" width="40"/>
+</a>
+<a href="https://thamaliherath.space" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="40" width="40"/>
+</a>
+</p>
 
-### 💻 Programming Languages  
-- JavaScript, TypeScript  
-- Java, .NET  
-- HTML, CSS  
+<h3 align="left">Languages and Tools:</h3>
 
-### ⚙️ Developer Tools  
-- Visual Studio Code, Visual Studio  
-- IntelliJ IDEA, Eclipse  
-- Android Studio  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,angular,nodejs,express,spring,selenium,postman,junit,mysql,mongodb,firebase,git,github,gitlab,aws,gcp,docker,jira,figma,vscode,androidstudio&perline=12" />
+  </a>
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Professional Experience  
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thamali-Herath&theme=radical" />
+</td>
+<td width="50%" align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thamali-Herath&theme=radical&utcOffset=5.5" />
+</td>
+</tr>
+</table>
 
-### **Xenosys Software Solutions**  
-**Associate Software Quality Engineer**  
-📅 *Dec 2025 – Present* | 📍 Colombo, Sri Lanka  
-
-- Logged, tracked, and verified software defects using **Jira**
-- Collaborated with developers to reproduce issues and validate fixes  
-- Participated in **Agile ceremonies** including sprint planning, stand-ups, and retrospectives  
-- Contributed to improving QA processes and testing efficiency  
-
-**Intern Quality Assurance Engineer**  
-📅 *May 2025 – Nov 2025*  
-
-- Performed functional, regression, usability, API, and cross-browser testing  
-- Designed and executed comprehensive test cases  
-- Validated fixes and ensured quality across web and ERP systems  
-
----
-
-### **Treinetic (Pvt) Ltd**  
-**Intern Full Stack Software Engineer**  
-📅 *Mar 2022 – Mar 2023* | 📍 Colombo, Sri Lanka  
-
-- Developed application features using **AngularJS and Spring Boot**  
-- Built and integrated RESTful APIs  
-- Participated in debugging, testing, and code reviews  
-- Worked within Agile teams to deliver sprint goals  
-
----
-
-## 📂 Projects  
-
-- **CRM System**  
-  *Reviewed lead management workflows and communication features.*
-
-- **Assets Management Module**  
-  *Validated asset lifecycle transitions and status updates.*
-
-- **E-commerce Web Application**  
-  *Tested UI flow, checkout process, and payment behavior across devices.*
-
-- **Car Rental System**  
-  *Verified booking workflows, availability logic, and notifications.*
-
-- **Point of Sale (POS) System**  
-  *Validated transactions and real-time inventory synchronization.*
-
-- **HR Management System**  
-  *Tested onboarding, payroll, attendance, and access control features.*
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thamali-Herath&theme=radical" />
+</div>
 
 ---
 
-## 🎓 Education  
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
 
-**BSc (Hons) in Information Technology – Software Engineering**  
-Sri Lanka Institute of Information Technology (SLIIT)  
-📅 *2020 – 2024*
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-**GCE Advanced Level**  
-Isipathana Central College, Bamunakotuwa  
-
----
-
-## 📘 Research & Publications  
-
-**ARCHIVEHUB: Web-based Dashboard to Maintain and Rate Researchers’ Profiles**  
-- Built researcher profiles using **NLP and Machine Learning**  
-- Technologies: JavaScript, Python, React, Node.js, AWS, Flask, Selenium  
-🔗 [Read Publication](https://irjiet.com/Volume-7/Issue-10-October-2023/ARCHIVEHUB-Web-based-Dashboard-to-Maintain-and-Rate-Researchers-Profiles/1873)
-
----
-
-## 🤝 Let’s Connect  
-
-I’m always interested in collaborating on **QA, automation, and software engineering projects**.  
-Feel free to reach out if you’d like to connect, collaborate, or discuss technology!
-
-⭐ *If you like my work, consider giving my repositories a star!*  
+<h3 align="left">Support:</h3>
+<p>
+<a href="https://www.buymeacoffee.com/ThamaliHerath">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
+</a>
+</p>
