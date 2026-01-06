@@ -1,81 +1,102 @@
-<!--
-    Hi there 👋
-    Welcome to my GitHub Profile!
--->
+# 👋 Hi, I'm Thamali Herath
 
-<div align="center">
-  <h1>👋 Hi, I'm Thamali Herath</h1>
-  <p>Quality Assurance Engineer 🔍 | Manual & Automation Testing | Passionate about Quality Software</p>
-  
-  <a href="https://linkedin.com/in/thamali-nirmala-herath">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tnirmalaadasooriya@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://thamaliherath.space">
-    <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
-  </a>
-</div>
+### 🧪 Quality Assurance Engineer | Software Engineering Graduate
+
+I’m a **detail-oriented Quality Assurance Engineer** with hands-on experience in **manual and automated testing** for web and enterprise applications. I’m passionate about improving software quality, identifying defects early, and collaborating with Agile teams to deliver reliable products.
 
 ---
 
-## 💻 About Me
+## 👩‍💻 About Me
 
-I'm a **Quality Assurance Engineer** focused on delivering high-quality software by combining strong testing fundamentals with modern tools and best practices. I work across **manual testing, automation testing, API testing, and Agile QA processes** to help teams improve reliability and performance.
-
-I have real-world experience using **Selenium, Postman, Jira, Git**, and more — and love collaborating with developers to ensure stable and efficient software releases.
-
----
-
-## 🚀 Skills
-
-### 🛠️ Testing & QA
-- Functional Testing | Regression Testing  
-- Integration Testing | UI & API Testing  
-- Test Case Design & Defect Tracking  
-- SDLC | STLC | Agile / Scrum  
-
-### 🧰 Tools & Technologies
-- **Automation:** Selenium WebDriver  
-- **API:** Postman  
-- **CI / DevOps:** Azure DevOps  
-- **Issue Tracking:** Jira  
-- **Version Control:** Git & GitHub  
-
-### 💻 Languages & Frameworks
-- Java | JavaScript | TypeScript  
-- HTML | CSS  
-- React | Angular | Node.js  
+- 🔍 Experience in **Functional, Regression, Integration, UI & API Testing**
+- 🧪 Hands-on with **Selenium WebDriver, Postman, JUnit**
+- 🐞 Strong in **test case design & defect lifecycle management**
+- ⚙️ Familiar with **Agile / Scrum** methodologies
+- 💻 Technical background in **Java, JavaScript & Full-Stack Development**
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Skills & Tools
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
-</div>
+### 🔹 Testing & QA
+- Functional Testing  
+- Regression Testing  
+- Integration Testing  
+- UI & Usability Testing  
+- API Testing  
+- Test Case Design & Execution  
+- Bug Reporting  
+- SDLC / STLC  
 
----
-
-## 📍 My Focus
-
-- 📌 Quality Assurance & Testing Best Practices  
-- 📌 Automation Testing Frameworks  
-- 📌 API, Regression, Integration Testing  
-- 📌 Test Strategy & Continuous Quality Improvement
-
----
-
-## 📫 Get in Touch
-
-Feel free to reach out to me!  
-✨ **Email:** tnirmalaadasooriya@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/thamali-nirmala-herath  
-🌐 **Portfolio:** https://thamaliherath.space
+### 🔹 Tools & Technologies
+- **Testing Tools:** Selenium WebDriver, Postman, JUnit  
+- **Version Control:** GitHub, GitLab, Sourcetree, Azure DevOps  
+- **Project Management:** Jira, Asana  
+- **Databases:** MySQL, MongoDB, Firebase  
+- **Frameworks:** React, Angular, Node.js, Express  
+- **Languages:** JavaScript, TypeScript, Java, .NET, HTML, CSS  
+- **Other:** Docker, GCP, WordPress, Agile/Scrum  
 
 ---
 
-⭐ *Thanks for visiting my profile! Let’s build something awesome together.*
+## 💼 Experience
 
+### **Xenosys Software Solutions** – Colombo, Sri Lanka  
+**Associate Software Quality Engineer** *(Dec 2025 – Present)*  
+- Logged, tracked, and verified defects using **Jira**  
+- Collaborated with developers to reproduce issues and validate fixes  
+- Participated in sprint planning, daily stand-ups, and retrospectives  
+- Improved QA processes through continuous feedback  
+
+**Intern Quality Assurance Engineer** *(May 2025 – Nov 2025)*  
+- Performed functional, regression, usability, API, and cross-browser testing  
+- Designed and executed structured test cases  
+- Verified bug fixes in Agile sprint cycles  
+
+---
+
+### **Treinetic (Pvt) Ltd** – Colombo, Sri Lanka  
+**Intern Full Stack Software Engineer** *(Mar 2022 – Mar 2023)*  
+- Developed features using **AngularJS & Spring Boot**  
+- Built and integrated RESTful APIs  
+- Participated in debugging, testing, and code reviews  
+
+---
+
+## 📂 Projects
+
+- **CRM System** – Tested lead management and workflow actions  
+- **Assets Module** – Validated asset lifecycle and status transitions  
+- **E-commerce Web App** – Checked UI flow, checkout, and payments  
+- **Car Rental System** – Verified booking and availability logic  
+- **POS System** – Validated transactions and inventory sync  
+- **HR Management System** – Tested payroll, attendance, and access control  
+
+---
+
+## 🎓 Education
+
+🎓 **BSc (Hons) in IT – Software Engineering**  
+Sri Lanka Institute of Information Technology (SLIIT)
+
+🏫 **GCE Advanced Level**  
+Isipathana Central College, Bamunakotuwa
+
+---
+
+## 📚 Research & Publication
+
+**ARCHIVEHUB: Web-based Dashboard to Maintain and Rate Researchers’ Profiles**  
+- NLP & ML-based researcher profiling system  
+- Tech: JavaScript, Python, React, Node.js, AWS, Flask, Selenium  
+
+🔗 https://irjiet.com/Volume-7/Issue-10-October-2023/ARCHIVEHUB-Web-based-Dashboard-to-Maintain-and-Rate-Researchers-Profiles/1873
+
+---
+
+## 🌐 Connect with Me
+
+- 🌍 Portfolio: https://thamaliherath.space  
+- 💼 LinkedIn: https://www.linkedin.com/in/thamali-nirmala-herath  
+- ✍️ Medium: https://medium.com/@ThamaliNirmala  
+- 📧 Email: tnirmalaadasooriya@gmail.com
