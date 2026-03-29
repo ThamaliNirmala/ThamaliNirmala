@@ -15,7 +15,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- [cite_start]🎓 **BSc (Hons) in IT** (Software Engineering) from **SLIIT** [cite: 44]
+- 🎓 **BSc (Hons) in IT** (Software Engineering) from **SLIIT**
 - [cite_start]🛡️ Detail-oriented **Quality Assurance Engineer** with a focus on manual & automated testing [cite: 9]
 - [cite_start]🤖 Skilled in **Selenium WebDriver, Postman, and JUnit** [cite: 11]
 - [cite_start]💬 Ask me about **API Testing, Defect Lifecycle, and Java/JavaScript** [cite: 10, 12]
